@@ -5,7 +5,7 @@
 a111:
     base_path: /kaggle/input/
 
-    checkpoints: /kaggle/input/gggggg
+    checkpoints: model-magicrealistic
     configs: models/Stable-diffusion
     vae: models/VAE
     loras: |
